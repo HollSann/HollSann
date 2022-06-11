@@ -10,11 +10,10 @@ que en 2022 ese interés se transformó en una pasión y
 decidí comenzar la carrera Analista en Sistemas (UNLP). Siempre intento superarme y adquirir todo el conocimiento en las distintas tecnologías como me sea posible.
 <h1></h1>
 
-### Tecnologías que he aprendido y sigo estudiando 📚   
-
+<h1>Tecnologías que he aprendido y sigo estudiando</h1> 📚   
 
 <div display="in-line" gap="40px">
-    <img src="html.png" alt="html" width="50">
+    <img src="html.png" alt="html" width="50" margin-rigth="10px">
     <img src="Javascript.png" alt="javascript" width="50"/>
     <img src="css.png" alt="css" width="100">
 </div>
