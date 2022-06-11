@@ -14,7 +14,7 @@ decidí comenzar la carrera Analista en Sistemas (UNLP). Siempre intento superar
 
 
 <div display="in-line" gap="40px">
-    <img src="htmlcssjs.png" width="100px" alt="htmlcssjs">
+    <img src="htmlcssjs.png" width="200px" alt="htmlcssjs">
 </div>
 
  
