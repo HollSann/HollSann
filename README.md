@@ -11,7 +11,7 @@ decidí comenzar la carrera Analista en Sistemas (UNLP). Siempre intento superar
 <h1></h1>
 
 ### Tecnologías que he aprendido y sigo estudiando 📚   
-<h1></h1>
+
 
 <div display="in-line">
     <img src="html.png" alt="html" width="50">
