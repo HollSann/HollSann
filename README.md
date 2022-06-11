@@ -2,7 +2,7 @@
 
 <img src="GithubHeader.gif">
 <!-- **HollSann/HollSann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-<br></br>
+<hr>
 ### Hola!👋 Soy Santiago
 <!-- Here are some ideas to get you started:
 
