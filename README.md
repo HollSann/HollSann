@@ -8,12 +8,15 @@
 Soy apasionado, autodidacta y autocrítico. Cada día intento mejorar mis habilidades blandas y técnicas. En 2021 comencé a interesarme por el mundo IT, hasta
 que en 2022 ese interés se transformó en una pasión y
 decidí comenzar la carrera Analista en Sistemas (UNLP). Siempre intento superarme y adquirir todo el conocimiento en las distintas tecnologías como me sea posible.
-<hr></hr>
+<h1></h1>
 
-### Tecnologías que he aprendido y sigo estudiando    
+### Tecnologías que he aprendido y sigo estudiando 📚   
+<h1></h1>
+
 <div display="in-line">
     <img src="html.png" alt="html" width="50">
     <img src="Javascript.png" alt="javascript" width="50"/>
+    <img src="css.png" alt="css" width="50">
 </div>
 
 
