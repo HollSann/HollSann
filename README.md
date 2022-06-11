@@ -19,7 +19,7 @@ decidí comenzar la carrera Analista en Sistemas (UNLP). Siempre intento superar
 
  
 📆
-<!-- Here are some ideas to get you started:
+<!--  Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
