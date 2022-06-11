@@ -12,7 +12,7 @@ decidí comenzar la carrera Analista en Sistemas (UNLP). Siempre intento superar
 ##### Tecnologías que he aprendido
 
 
-![JavaScript](/Javascript.png)
+<img src="Javascript.png" alt="javascript" width="200"/>
 
 
 
