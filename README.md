@@ -11,10 +11,10 @@ decidí comenzar la carrera Analista en Sistemas (UNLP). Siempre intento superar
 <hr></hr>
 
 ### Tecnologías que he aprendido y sigo estudiando    
-
-<img src="html.png" alt="html" width="50">
-<img src="Javascript.png" alt="javascript" width="50"/>
-
+<div display="in-line">
+    <img src="html.png" alt="html" width="50">
+    <img src="Javascript.png" alt="javascript" width="50"/>
+</div>
 
 
 📆
