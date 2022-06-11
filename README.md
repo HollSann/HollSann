@@ -16,10 +16,10 @@ decidí comenzar la carrera Analista en Sistemas (UNLP). Siempre intento superar
 <div display="in-line" gap="40px">
     <img src="html.png" alt="html" width="50" margin-rigth="20px">
     <img src="Javascript.png" alt="javascript" width="50" margin-rigth="20px"/>
-    <img src="css.png" alt="css" width="100">
+    <img src="css.png" alt="css" width="50" margin-rigth="20px">
 </div>
 
-
+ 
 📆
 <!-- Here are some ideas to get you started:
 
