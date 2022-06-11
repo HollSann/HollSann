@@ -1,7 +1,7 @@
 ### Hola!👋 Soy Santiago
 
 <br>
-![img](:\Users\Santi\OneDrive\Escritorio\GithubHeader.gif)
+![img](/GithubHeader.gif)
 <!--
 **HollSann/HollSann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
