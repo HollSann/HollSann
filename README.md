@@ -1,7 +1,7 @@
 ### Hola!👋 Soy Santiago
 
 <br>
-![img](file:///C:/Users/Santi/OneDrive/Escritorio/githubreadme/index.htmlfile:///C:/Users/Santi/OneDrive/Escritorio/githubreadme/index.html)
+![img](file:///C:/Users/Santi/OneDrive/Escritorio/githubreadme/index.html)
 <!--
 **HollSann/HollSann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
