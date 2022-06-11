@@ -9,6 +9,7 @@ Soy apasionado, autodidacta y autocrítico. Cada día intento mejorar mis habili
 que en 2022 ese interés se transformó en una pasión y
 decidí comenzar la carrera Analista en Sistemas (UNLP). Siempre intento superarme y adquirir todo el conocimiento en las distintas tecnologías como me sea posible.
 <hr></hr>
+
 ### Tecnologías que he aprendido y sigo estudiando    
 
 
