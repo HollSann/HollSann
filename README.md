@@ -12,7 +12,7 @@ decidí comenzar la carrera Analista en Sistemas (UNLP). Siempre intento superar
 
 # Tecnologías que he aprendido y sigo estudiando 🌱📚
 
-### _#Frontend:
+### 📌Frontend:
 #### HTML || CSS || JavaScript || React || Bootstrap 
 <div diplay="Flex">
     <img src="html.png" height="35px" alt="Html">
@@ -23,7 +23,7 @@ decidí comenzar la carrera Analista en Sistemas (UNLP). Siempre intento superar
 </div>
 
 
-### _#Backend:
+### 📌Backend:
 #### Express.js || Next.js || Node.js || Python || SQL || MongoDB 
    <div display="flex">
      <img src="express.png" height="35px" alt="Express">
@@ -34,7 +34,7 @@ decidí comenzar la carrera Analista en Sistemas (UNLP). Siempre intento superar
      <img src="mongoDB.png" height="35px" alt="MongoDB">
  </div>
 
-### _#Controladores de versiones:
+### 📌Controladores de versiones:
 #### Git || Github 
 <img src="git1.png" height="35px" alt="Git">
 
