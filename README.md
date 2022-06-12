@@ -10,16 +10,16 @@ que en 2022 ese interés se transformó en una pasión y
 decidí comenzar la carrera Analista en Sistemas (UNLP). Siempre intento superarme y adquirir todo el conocimiento en las distintas tecnologías como me sea posible.
 
 
-# Tecnologías que he aprendido y sigo estudiando 📚🌱
+# Tecnologías que he aprendido y sigo estudiando 🌱📚
 
-### Fronted:
+### Frontend:
 #### HTML || CSS || JavaScript || React || Bootstrap 
 <div diplay="Flex">
-    <img src="html.png" height="50px" alt="Html">
-    <img src="css.png" height="50" alt="Css">
-    <img src="JavaScript1.png" height="50px" alt="Javascript">
-    <img src="react.png" height="50px" alt="React">
-    <img src="bootstrap.png" height="50px" alt="Bootstrap">
+    <img src="html.png" height="40px" alt="Html">
+    <img src="css.png" height="40" alt="Css">
+    <img src="JavaScript1.png" height="40px" alt="Javascript">
+    <img src="react.png" height="40px" alt="React">
+    <img src="bootstrap.png" height="40px" alt="Bootstrap">
 </div>
 <br></br>
 
@@ -40,7 +40,14 @@ decidí comenzar la carrera Analista en Sistemas (UNLP). Siempre intento superar
 <img src="git1.png" height="50px" alt="Git">
 <br></br>
 
-
+# Tecnologías que planeo estudiar proximamente 🔍📚
+### TypeScript || Jquery || Docker
+<div dipley="flex">
+<img src="typescript.png" height="50px" alt="Typescript">
+<img src="jquery.png" height="50px" alt="Jquery">
+<img src="docker.png" height="50px" alt="Docker">
+<img src="postgreSQL.png" height="50px" alt="PostgreSQL">
+</div>
 <!-- ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
