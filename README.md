@@ -58,3 +58,4 @@ decidí comenzar la carrera Analista en Sistemas (UNLP). Siempre intento superar
 - <img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/1024px-Facebook_Logo_(2019).png" height="15" width="15"> <a>https://www.facebook.com/santiago.hollmann.188/</a>
 
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hollsann&show_icons=true&locale=en" alt="hollsann" /></p>
