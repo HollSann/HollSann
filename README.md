@@ -23,7 +23,7 @@ decidí comenzar la carrera Analista en Sistemas (UNLP). Siempre intento superar
 </div>
 <p>                    </p>
 
-### Backend:
+### <h1 text-decoration="underline">Frontend:</h1>:
 #### Express.js || Next.js || Node.js || Python || SQL || MongoDB 
    <div display="flex">
      <img src="express.png" height="50px" alt="Express">
