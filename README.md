@@ -47,8 +47,7 @@ decidí comenzar la carrera Analista en Sistemas (UNLP). Siempre intento superar
 <img src="docker.png" height="35px" alt="Docker">
 <img src="postgreSQL.png" height="35px" alt="PostgreSQL">
 </div>
-
-# Contacta conmigo 😄📫
+<br></br>
 
 <p display="in-line" align="center">
 
