@@ -33,6 +33,7 @@ Express.js || Next.js ||
  </div>
 
 Controlador de versiones:
+
 <img src="git.png" height="50px" alt="Git">
 
 
