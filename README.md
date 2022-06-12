@@ -13,7 +13,7 @@ decidí comenzar la carrera Analista en Sistemas (UNLP). Siempre intento superar
 # Tecnologías que he aprendido y sigo estudiando 📚🌱
 
 ### Fronted:
-#### HTML || CSS || JavaScript || React || Bootstrap <h1></h1>
+#### HTML || CSS || JavaScript || React || Bootstrap 
 <div diplay="Flex">
     <img src="html.png" height="50px" alt="Html">
     <img src="css.png" height="50" alt="Css">
@@ -21,9 +21,10 @@ decidí comenzar la carrera Analista en Sistemas (UNLP). Siempre intento superar
     <img src="react.png" height="50px" alt="React">
     <img src="bootstrap.png" height="50px" alt="Bootstrap">
 </div>
+<h1></h1>
 
 ### Backend:
-#### Express.js || Next.js || Node.js || Python || SQL || MongoDB <h1></h1>
+#### Express.js || Next.js || Node.js || Python || SQL || MongoDB 
    <div display="flex">
      <img src="express.png" height="50px" alt="Express">
      <img src="next.png" height="50px" alt="Nextjs">
@@ -32,10 +33,13 @@ decidí comenzar la carrera Analista en Sistemas (UNLP). Siempre intento superar
      <img src="sql-logo.png" height="50px" alt="SQL">
      <img src="mongoDB.png" height="50px" alt="MongoDB">
  </div>
+<h1></h1>
 
 ### Controladores de versiones:
-#### Git || Github <h1></h1>
+#### Git || Github 
 <img src="git1.png" height="50px" alt="Git">
+<h1></h1>
+
 
 <!-- ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
