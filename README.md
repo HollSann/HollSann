@@ -49,6 +49,18 @@ decidí comenzar la carrera Analista en Sistemas (UNLP). Siempre intento superar
 </div>
 
 # Contacta conmigo 😄📫
+
+<p display="block" align="center">
+
+# Contacta conmigo 😄📫 
+  
+<a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile" alt="Linkedin"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/174857.png" height="30" width="30"></a>
+  
+  <a href="https://www.instagram.com/hollsant/" alt="Facebook"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/instagram-logo-png-transparent-background-hd-3.png" height="30" width="30"></a>
+  
+<a href="santiago_hollmann@outlook.com" alt="Contact me"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/gmail-512.webp" height="30" width="30"></a>
+
+  </p>
 <!--  Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
