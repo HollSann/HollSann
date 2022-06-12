@@ -12,26 +12,26 @@ decidí comenzar la carrera Analista en Sistemas (UNLP). Siempre intento superar
 
 # Tecnologías que he aprendido y sigo estudiando 🌱📚
 
-### <u>Frontend:</u>
+### Frontend:
 #### HTML || CSS || JavaScript || React || Bootstrap 
 <div diplay="Flex">
-    <img src="html.png" height="40px" alt="Html">
-    <img src="css.png" height="40" alt="Css">
+    <img src="html.png" height="35px" alt="Html">
+    <img src="css.png" height="35" alt="Css">
     <img src="JavaScript1.png" height="40px" alt="Javascript">
-    <img src="react.png" height="40px" alt="React">
-    <img src="bootstrap.png" height="40px" alt="Bootstrap">
+    <img src="react.png" height="35px" alt="React">
+    <img src="bootstrap.png" height="35px" alt="Bootstrap">
 </div>
-<br></br>
+
 
 ### Backend:
 #### Express.js || Next.js || Node.js || Python || SQL || MongoDB 
    <div display="flex">
-     <img src="express.png" height="50px" alt="Express">
-     <img src="next.png" height="50px" alt="Nextjs">
-     <img src="nodejs.png" height="50px" alt="Nodejs">
-     <img src="python.png" height="50px" alt="Python">
-     <img src="sql-logo.png" height="50px" alt="SQL">
-     <img src="mongoDB.png" height="50px" alt="MongoDB">
+     <img src="express.png" height="35px" alt="Express">
+     <img src="next.png" height="35px" alt="Nextjs">
+     <img src="nodejs.png" height="35px" alt="Nodejs">
+     <img src="python.png" height="35px" alt="Python">
+     <img src="sql-logo.png" height="35px" alt="SQL">
+     <img src="mongoDB.png" height="35px" alt="MongoDB">
  </div>
 <br></br>
 
@@ -43,10 +43,10 @@ decidí comenzar la carrera Analista en Sistemas (UNLP). Siempre intento superar
 # Tecnologías que planeo estudiar proximamente 🔍📚
 ### TypeScript || Jquery || Docker || PostgreSQL
 <div dipley="flex">
-<img src="typescript.png" height="30px" alt="Typescript">
-<img src="jquery.png" height="30px" alt="Jquery">
-<img src="docker.png" height="30px" alt="Docker">
-<img src="postgreSQL.png" height="30px" alt="PostgreSQL">
+<img src="typescript.png" height="35px" alt="Typescript">
+<img src="jquery.png" height="35px" alt="Jquery">
+<img src="docker.png" height="35px" alt="Docker">
+<img src="postgreSQL.png" height="35px" alt="PostgreSQL">
 </div>
 <!-- ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
