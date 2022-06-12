@@ -12,7 +12,7 @@ decidí comenzar la carrera Analista en Sistemas (UNLP). Siempre intento superar
 
 # Tecnologías que he aprendido y sigo estudiando 🌱📚
 
-### Frontend:
+### #Frontend:
 #### HTML || CSS || JavaScript || React || Bootstrap 
 <div diplay="Flex">
     <img src="html.png" height="35px" alt="Html">
@@ -23,7 +23,7 @@ decidí comenzar la carrera Analista en Sistemas (UNLP). Siempre intento superar
 </div>
 
 
-### Backend:
+### #Backend:
 #### Express.js || Next.js || Node.js || Python || SQL || MongoDB 
    <div display="flex">
      <img src="express.png" height="35px" alt="Express">
@@ -34,7 +34,7 @@ decidí comenzar la carrera Analista en Sistemas (UNLP). Siempre intento superar
      <img src="mongoDB.png" height="35px" alt="MongoDB">
  </div>
 
-### \_Controladores de versiones:\_
+### #Controladores de versiones:
 #### Git || Github 
 <img src="git1.png" height="35px" alt="Git">
 
@@ -47,13 +47,6 @@ decidí comenzar la carrera Analista en Sistemas (UNLP). Siempre intento superar
 <img src="docker.png" height="35px" alt="Docker">
 <img src="postgreSQL.png" height="35px" alt="PostgreSQL">
 </div>
-<!-- ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
-![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
-![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
- ![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
-![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB) -->
 
 <!--  Here are some ideas to get you started:
 
