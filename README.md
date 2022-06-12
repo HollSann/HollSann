@@ -12,8 +12,8 @@ decidí comenzar la carrera Analista en Sistemas (UNLP). Siempre intento superar
 
 # Tecnologías que he aprendido y sigo estudiando 📚🌱
 
-<h2 font-size="20px">Frontend:<br>
-HTML || CSS || JavaScript || React || Bootstrap</h2>
+<h1 >Frontend:</h1>
+<h2>HTML || CSS || JavaScript || React || Bootstrap</h2>
 <div diplay="Flex">
     <img src="html.png" height="50px" alt="Html">
     <img src="css.png" height="50" alt="Css">
