@@ -13,7 +13,7 @@ decidí comenzar la carrera Analista en Sistemas (UNLP). Siempre intento superar
 ## Tecnologías que he aprendido y sigo estudiando 📚🌱
 
 ## Frontend:
-## HTML || CSS || JavaScript || React || Bootstrap
+### HTML || CSS || JavaScript || React || Bootstrap
 <div diplay="Flex">
     <img src="html.png" height="50px" alt="Html">
     <img src="css.png" height="50" alt="Css">
@@ -34,9 +34,9 @@ decidí comenzar la carrera Analista en Sistemas (UNLP). Siempre intento superar
  </div>
 
 ## Controlador de versiones:
-
+### Git || Github
 <img src="git1.png" height="50px" alt="Git">
-
+<img src="github.png" height="50px" alt="GitHub">
 
 <!-- ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
