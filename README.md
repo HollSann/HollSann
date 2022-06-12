@@ -13,7 +13,7 @@ decidí comenzar la carrera Analista en Sistemas (UNLP). Siempre intento superar
 # Tecnologías que he aprendido y sigo estudiando 📚🌱
 
 ### Fronted:
-#### HTML || CSS || JavaScript || React || Bootstrap
+#### HTML || CSS || JavaScript || React || Bootstrap <h1></h1>
 <div diplay="Flex">
     <img src="html.png" height="50px" alt="Html">
     <img src="css.png" height="50" alt="Css">
@@ -23,7 +23,7 @@ decidí comenzar la carrera Analista en Sistemas (UNLP). Siempre intento superar
 </div>
 
 ### Backend:
-#### Express.js || Next.js || Node.js || Python || SQL || MongoDB
+#### Express.js || Next.js || Node.js || Python || SQL || MongoDB <h1></h1>
    <div display="flex">
      <img src="express.png" height="50px" alt="Express">
      <img src="next.png" height="50px" alt="Nextjs">
@@ -34,11 +34,9 @@ decidí comenzar la carrera Analista en Sistemas (UNLP). Siempre intento superar
  </div>
 
 ### Controladores de versiones:
-#### Git || Github
-<div display="flex">
+#### Git || Github <h1></h1>
 <img src="git1.png" height="50px" alt="Git">
-<img src="github.png" height="50px" alt="GitHub">
-</div>
+
 <!-- ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
