@@ -53,9 +53,8 @@ decidí comenzar la carrera Analista en Sistemas (UNLP). Siempre intento superar
 
 - ☎️ (+54) 02475 437361
 - 📧 <a href="mailto:Santiago_hollmann@outlook.com">Santiago_hollmann@outlook.com</a>
-- <img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/174857.png" height="15" width="15">
-<a href="https://www.facebook.com/santiago.hollmann.188/">www.facebook.com/santiago.hollmann</a>
+- <img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/174857.png" height="15" width="15"><a href="https://www.linkedin.com/in/santiago-hollmann-b11440238/">https://www.linkedin.com</a>
 - <img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/instagram-logo-png-transparent-background-hd-3.png" height="15" width="15"><a href="https://www.instagram.com/hollsant/"> @hollsant</a>  
-- <img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/1024px-Facebook_Logo_(2019).png" height="15" width="15"> <a href="https://www.facebook.com/santiago.hollmann.188/">Santiago Hollmann</a>
+- <img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/1024px-Facebook_Logo_(2019).png" height="15" width="15"> <a href="https://www.facebook.com/santiago.hollmann.188/">https://www.facebook.com/santiago.hollmann</a>
 
 
