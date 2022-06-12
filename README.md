@@ -14,10 +14,15 @@ decidí comenzar la carrera Analista en Sistemas (UNLP). Siempre intento superar
 
 
 <div display="flex" >
-    <img src="html.png" height="50px">
-    <img src="css.png" height="50">
-    <img src="JavaScript1.png" height="50px">
-     
+    <img src="html.png" height="50px" alt="Html">
+    <img src="css.png" height="50" alt="Css">
+    <img src="JavaScript1.png" height="50px" alt="Javascript">
+    <img src="React.png" height="50px" alt="React">
+    <img src="express.png" height="50px" alt="Express">
+    <img src="nextjs.png" height="50px" alt="Nextjs">
+    <img src="python.png" height="50px" alt="Python">
+    <img src="sql" height="50px" alt="SQL">
+    <img src="mongoDB.png" height="50px" alt="MongoDB">
 </div>
 
  
