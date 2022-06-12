@@ -12,29 +12,30 @@ decidí comenzar la carrera Analista en Sistemas (UNLP). Siempre intento superar
 
 ## Tecnologías que he aprendido y sigo estudiando 📚🌱
 
-Frontend:
-HTML || CSS || JavaScript || React
+## Frontend:
+## HTML || CSS || JavaScript || React || Bootstrap
 <div diplay="Flex">
     <img src="html.png" height="50px" alt="Html">
     <img src="css.png" height="50" alt="Css">
     <img src="JavaScript1.png" height="50px" alt="Javascript">
     <img src="react.png" height="50px" alt="React">
+    <img src="bootstrap.png" height="50px" alt="Bootstrap">
 </div>
 
-Backend:
-Express.js || Next.js || 
-    <div display="flex">
+# Backend:
+### Express.js || Next.js || Node.js || Python || SQL || MongoDB
+   <div display="flex">
+     <img src="express.png" height="50px" alt="Express">
+     <img src="next.png" height="50px" alt="Nextjs">
      <img src="nodejs.png" height="50px" alt="Nodejs">
-    <img src="express.png" height="50px" alt="Express">
-    <img src="next.png" height="50px" alt="Nextjs">
-    <img src="python.png" height="50px" alt="Python">
-    <img src="sql-logo.png" height="50px" alt="SQL">
-    <img src="mongoDB.png" height="50px" alt="MongoDB">
+     <img src="python.png" height="50px" alt="Python">
+     <img src="sql-logo.png" height="50px" alt="SQL">
+     <img src="mongoDB.png" height="50px" alt="MongoDB">
  </div>
 
-Controlador de versiones:
+## Controlador de versiones:
 
-<img src="git.png" height="50px" alt="Git">
+<img src="git1.png" height="50px" alt="Git">
 
 
 <!-- ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
