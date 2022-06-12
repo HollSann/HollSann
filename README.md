@@ -12,7 +12,7 @@ decidí comenzar la carrera Analista en Sistemas (UNLP). Siempre intento superar
 
 # Tecnologías que he aprendido y sigo estudiando 🌱📚
 
-### Frontend:
+### <u>Frontend:</u>
 #### HTML || CSS || JavaScript || React || Bootstrap 
 <div diplay="Flex">
     <img src="html.png" height="40px" alt="Html">
@@ -23,7 +23,7 @@ decidí comenzar la carrera Analista en Sistemas (UNLP). Siempre intento superar
 </div>
 <br></br>
 
-### Frontend:
+### Backend:
 #### Express.js || Next.js || Node.js || Python || SQL || MongoDB 
    <div display="flex">
      <img src="express.png" height="50px" alt="Express">
@@ -41,12 +41,12 @@ decidí comenzar la carrera Analista en Sistemas (UNLP). Siempre intento superar
 <br></br>
 
 # Tecnologías que planeo estudiar proximamente 🔍📚
-### TypeScript || Jquery || Docker
+### TypeScript || Jquery || Docker || PostgreSQL
 <div dipley="flex">
-<img src="typescript.png" height="50px" alt="Typescript">
-<img src="jquery.png" height="50px" alt="Jquery">
-<img src="docker.png" height="50px" alt="Docker">
-<img src="postgreSQL.png" height="50px" alt="PostgreSQL">
+<img src="typescript.png" height="30px" alt="Typescript">
+<img src="jquery.png" height="30px" alt="Jquery">
+<img src="docker.png" height="30px" alt="Docker">
+<img src="postgreSQL.png" height="30px" alt="PostgreSQL">
 </div>
 <!-- ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
