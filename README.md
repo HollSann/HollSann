@@ -33,12 +33,11 @@ decidí comenzar la carrera Analista en Sistemas (UNLP). Siempre intento superar
      <img src="sql-logo.png" height="35px" alt="SQL">
      <img src="mongoDB.png" height="35px" alt="MongoDB">
  </div>
-<br></br>
 
-### Controladores de versiones:
+### \_Controladores de versiones:\_
 #### Git || Github 
-<img src="git1.png" height="50px" alt="Git">
-<br></br>
+<img src="git1.png" height="35px" alt="Git">
+
 
 # Tecnologías que planeo estudiar proximamente 🔍📚
 ### TypeScript || Jquery || Docker || PostgreSQL
