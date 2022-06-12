@@ -21,7 +21,7 @@ decidí comenzar la carrera Analista en Sistemas (UNLP). Siempre intento superar
     <img src="react.png" height="50px" alt="React">
     <img src="bootstrap.png" height="50px" alt="Bootstrap">
 </div>
-<h1></h1>
+<p>                    </p>
 
 ### Backend:
 #### Express.js || Next.js || Node.js || Python || SQL || MongoDB 
@@ -33,12 +33,12 @@ decidí comenzar la carrera Analista en Sistemas (UNLP). Siempre intento superar
      <img src="sql-logo.png" height="50px" alt="SQL">
      <img src="mongoDB.png" height="50px" alt="MongoDB">
  </div>
-<h1></h1>
+<p>                    </p>
 
 ### Controladores de versiones:
 #### Git || Github 
 <img src="git1.png" height="50px" alt="Git">
-<h1></h1>
+<p>                    </p>
 
 
 <!-- ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
