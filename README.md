@@ -1,7 +1,7 @@
 
 ###                         Hola!👋 Soy Santiago :argentina:✨ <h1></h1>
 <img src="GithubHeader1.gif">
-<!-- **HollSann/HollSann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+
 
 <h1>Sobre mí</h1>
 
@@ -49,17 +49,12 @@ decidí comenzar la carrera Analista en Sistemas (UNLP). Siempre intento superar
 </div>
 <br></br>
 
-## Contacta conmigo:  
+## Contacta conmigo 📫😁
 
 - ☎️ (+54) 02475 437361
 - 📧 <a href="mailto:Santiago_hollmann@outlook.com">Santiago_hollmann@outlook.com</a>
-- <img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/174857.png" height="10" width="15">
-- 
-- 
--  
-- 
-- 
-<!-- ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
-![jQuery](https://img.shields.io/badge/-jQuery-222222?style=flat&logo=jQuery&logoColor=0769AD)
-![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)
+- <img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/174857.png" height="15" width="15">
+- <img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/instagram-logo-png-transparent-background-hd-3.png" height="15" width="15"><a href="https://www.instagram.com/hollsant/">hollsant</a>  
+- <img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/1024px-Facebook_Logo_(2019).png" height="15" width="15"> <a href="https://www.facebook.com/santiago.hollmann.188/">Santiago Hollmann</a>
+
 
