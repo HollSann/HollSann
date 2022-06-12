@@ -59,3 +59,4 @@ decidí comenzar la carrera Analista en Sistemas (UNLP). Siempre intento superar
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hollsann&show_icons=true&locale=en" alt="hollsann" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hollsann&show_icons=true&locale=en&layout=compact" alt="hollsann" /></p>
