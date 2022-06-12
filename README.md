@@ -12,21 +12,37 @@ decidí comenzar la carrera Analista en Sistemas (UNLP). Siempre intento superar
 
 ## Tecnologías que he aprendido y sigo estudiando 📚🌱
 
-
-<div display="flex" >
+Frontend:
+HTML || CSS || JavaScript || React
+<div diplay="Flex">
     <img src="html.png" height="50px" alt="Html">
     <img src="css.png" height="50" alt="Css">
     <img src="JavaScript1.png" height="50px" alt="Javascript">
     <img src="react.png" height="50px" alt="React">
+</div>
+
+Backend:
+Express.js || Next.js || 
+    <div display="flex">
+     <img src="nodejs.png" height="50px" alt="Nodejs">
     <img src="express.png" height="50px" alt="Express">
     <img src="next.png" height="50px" alt="Nextjs">
     <img src="python.png" height="50px" alt="Python">
     <img src="sql-logo.png" height="50px" alt="SQL">
     <img src="mongoDB.png" height="50px" alt="MongoDB">
-    <img src="git.png" height="50px" alt="Git">
-</div>
+ </div>
 
- 
+Controlador de versiones:
+<img src="git.png" height="50px" alt="Git">
+
+
+<!-- ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
+![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
+ ![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
+![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB) -->
 
 <!--  Here are some ideas to get you started:
 
@@ -38,5 +54,7 @@ decidí comenzar la carrera Analista en Sistemas (UNLP). Siempre intento superar
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
-
+<!-- ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
+![jQuery](https://img.shields.io/badge/-jQuery-222222?style=flat&logo=jQuery&logoColor=0769AD)
+![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624) -->
 
