@@ -13,7 +13,9 @@ decidí comenzar la carrera Analista en Sistemas (UNLP). Siempre intento superar
 # Tecnologías que he aprendido y sigo estudiando 📚🌱
 
 ## Frontend:
+
 #### HTML || CSS || JavaScript || React || Bootstrap
+
 <div diplay="Flex">
     <img src="html.png" height="50px" alt="Html">
     <img src="css.png" height="50" alt="Css">
