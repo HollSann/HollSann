@@ -49,24 +49,16 @@ decidí comenzar la carrera Analista en Sistemas (UNLP). Siempre intento superar
 </div>
 <br></br>
 
+## Contacta conmigo:  
 
-Contacta conmigo! :
-
--☎️ (+54) 02475 437361
--📧 <a href="mailto:Santiago_hollmann@outlook.com">Santiago_hollmann@outlook.com</a>
--<img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/174857.png" height="10" width="10">
-
-
- Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
+- ☎️ (+54) 02475 437361
+- 📧 <a href="mailto:Santiago_hollmann@outlook.com">Santiago_hollmann@outlook.com</a>
+- <img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/174857.png" height="10" width="15">
+- 
+- 
+-  
+- 
+- 
 <!-- ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
 ![jQuery](https://img.shields.io/badge/-jQuery-222222?style=flat&logo=jQuery&logoColor=0769AD)
 ![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)
