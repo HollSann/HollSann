@@ -23,6 +23,7 @@ decidí comenzar la carrera Analista en Sistemas (UNLP). Siempre intento superar
     <img src="python.png" height="50px" alt="Python">
     <img src="sql" height="50px" alt="SQL">
     <img src="mongoDB.png" height="50px" alt="MongoDB">
+    <img src="git.png" height="50px" alt="Git">
 </div>
 
  
