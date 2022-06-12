@@ -1,6 +1,6 @@
 
 ###                         Hola!👋 Soy Santiago :argentina:✨ <h1></h1>
-<img src="GithubHeader1.gif">
+<!-- <img src="GithubHeader1.gif"> -->
 
 
 <h1>Sobre mí</h1>
