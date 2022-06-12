@@ -10,7 +10,7 @@ que en 2022 ese interés se transformó en una pasión y
 decidí comenzar la carrera Analista en Sistemas (UNLP). Siempre intento superarme y adquirir todo el conocimiento en las distintas tecnologías como me sea posible.
 
 
-## Tecnologías que he aprendido y sigo estudiando 📚🌱
+# Tecnologías que he aprendido y sigo estudiando 📚🌱
 
 ## Frontend:
 #### HTML || CSS || JavaScript || React || Bootstrap
@@ -33,7 +33,7 @@ decidí comenzar la carrera Analista en Sistemas (UNLP). Siempre intento superar
      <img src="mongoDB.png" height="50px" alt="MongoDB">
  </div>
 
-## Controlador de versiones:
+## Controladores de versiones:
 #### Git || Github
 <div display="flex">
 <img src="git1.png" height="50px" alt="Git">
