@@ -13,21 +13,21 @@ decidí comenzar la carrera Analista en Sistemas (UNLP). Siempre intento superar
 # Tecnologías que he aprendido y sigo estudiando 🌱📚
 
 ### 📌Frontend:
-#### HTML || CSS || JavaScript || React || Bootstrap 
+#### HTML || CSS || JavaScript || React || Bootstrap || Next.js
 <div diplay="Flex">
     <img src="html.png" height="35px" alt="Html">
     <img src="css.png" height="35" alt="Css">
     <img src="JavaScript1.png" height="35px" alt="Javascript">
     <img src="react.png" height="35px" alt="React">
     <img src="bootstrap.png" height="35px" alt="Bootstrap">
+    <img src="next.png" height="35px" alt="Nextjs">
 </div>
 
 
 ### 📌Backend:
-#### Express.js || Next.js || Node.js || Python || SQL || MongoDB 
+#### Express.js || Node.js || Python || SQL || MongoDB 
    <div display="flex">
      <img src="express.png" height="35px" alt="Express">
-     <img src="next.png" height="35px" alt="Nextjs">
      <img src="nodejs.png" height="35px" alt="Nodejs">
      <img src="python.png" height="35px" alt="Python">
      <img src="sql-logo.png" height="35px" alt="SQL">
