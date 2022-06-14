@@ -40,10 +40,11 @@ decidí comenzar la carrera Analista en Sistemas (UNLP). Siempre intento superar
 
 
 # Tecnologías que planeo estudiar proximamente 🔍📚
-### TypeScript || Jquery || Docker || PostgreSQL
+### TypeScript ||  Java || Spring || Docker || PostgreSQL
 <div dipley="flex">
 <img src="typescript.png" height="35px" alt="Typescript">
-<img src="jquery.png" height="35px" alt="Jquery">
+<img src="java.png" height="35px" alt="Java">
+<img src="spring.png" height="35px" alt="Spring">
 <img src="docker.png" height="35px" alt="Docker">
 <img src="postgreSQL.png" height="35px" alt="PostgreSQL">
 </div>
